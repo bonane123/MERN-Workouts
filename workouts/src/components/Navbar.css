@@ -1,0 +1,14 @@
+header {
+  width: 100vw;
+  font-size: 2rem;
+  background: rgb(255, 255, 255);
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+header a {
+  text-decoration: none;
+  color: rgb(25, 25, 25);
+}
