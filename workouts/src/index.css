@@ -39,6 +39,7 @@ body {
   border-radius: 8px;
   padding: 0.5rem 1rem;
   margin: 1rem;
+  position: relative;
 }
 h3 {
   color: rgb(23, 92, 23);
@@ -89,4 +90,10 @@ button {
 }
 button:hover {
   background: rgb(30, 118, 30);
+}
+span {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
+  cursor: pointer;
 }
